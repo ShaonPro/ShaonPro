@@ -1,11 +1,12 @@
 Hello There,
-
+<!--
 <a href="https://github.com/ShaonPro">
-    <img src="https://komarev.com/ghpvc/?username=ShaonPro&style=for-the-badge">
-</a>
-
+<!--     <img src="https://komarev.com/ghpvc/?username=ShaonPro&style=for-the-badge">
+</a> 
+<!--
 
 <!--
+
 **ShaonPro/ShaonPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
