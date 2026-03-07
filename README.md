@@ -33,13 +33,7 @@ Building multiple IT-based businesses: Templates, Graphics, Blogs, and Web Servi
 
 ---
 
-## 📈 GitHub Stats
 
-![ShaonPro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShaonPro&show_icons=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaonPro&layout=compact)
-
----
 
 
 ## 🛠 Services I Provide
