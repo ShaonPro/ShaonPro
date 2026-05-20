@@ -13,7 +13,7 @@ Building multiple IT-based businesses: Templates, Graphics, Blogs, and Web Servi
 - 💡 I specialize in **code customization**, **automation**, and **digital products**
 - 🌱 Learning every day — especially in AI, APIs, and cloud tools
 - 💬 Ask me about **n8n**, **webhooks**, **automations**, **full-stack**, or **business scaling**
-- 🌍 [Visit My Website](https://shoan.pro)
+- 🌍 [Visit My Website](https://shaon.pro)
 
 ---
 
